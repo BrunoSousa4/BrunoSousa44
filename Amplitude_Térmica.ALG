@@ -38,5 +38,5 @@ senao
 menor <- mm2
 fimse
 amp <- maior - menor
-escreva("A Amplitude Termica é", amp)
+escreva("A Amplitude Termica Ã©", amp)
 Fimalgoritmo
